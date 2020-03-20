@@ -11,11 +11,11 @@ print("E.", [insert function 5])
 Chosen_Func = input("What function do you want to do? ")
 if Chosen_Func == a:
     'go to a'
-if Chosen_Func == b:
+elif Chosen_Func == b:
     'go to b'
-if Chosen_Func == c:
+elif Chosen_Func == c:
     'go to c'    
-if Chosen_Func == d:
+elif Chosen_Func == d:
     'go to d'
-if Chosen_Func == e:
+elif Chosen_Func == e:
     'go to e'
